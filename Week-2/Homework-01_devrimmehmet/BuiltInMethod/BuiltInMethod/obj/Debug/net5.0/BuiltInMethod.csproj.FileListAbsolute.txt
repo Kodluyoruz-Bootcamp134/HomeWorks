@@ -1,0 +1,16 @@
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\bin\Debug\net5.0\BuiltInMethod.exe
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\bin\Debug\net5.0\BuiltInMethod.deps.json
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\bin\Debug\net5.0\BuiltInMethod.runtimeconfig.json
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\bin\Debug\net5.0\BuiltInMethod.runtimeconfig.dev.json
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\bin\Debug\net5.0\BuiltInMethod.dll
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\bin\Debug\net5.0\BuiltInMethod.pdb
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\BuiltInMethod.csproj.AssemblyReference.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\BuiltInMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\BuiltInMethod.AssemblyInfoInputs.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\BuiltInMethod.AssemblyInfo.cs
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\BuiltInMethod.csproj.CoreCompileInputs.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\BuiltInMethod.dll
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\refint\BuiltInMethod.dll
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\BuiltInMethod.pdb
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\BuiltInMethod.genruntimeconfig.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-2\Homework\Homework-01\BuiltInMethod\BuiltInMethod\obj\Debug\net5.0\ref\BuiltInMethod.dll

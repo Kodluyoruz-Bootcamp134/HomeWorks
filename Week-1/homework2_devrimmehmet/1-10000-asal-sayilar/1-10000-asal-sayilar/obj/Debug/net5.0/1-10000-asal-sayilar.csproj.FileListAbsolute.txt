@@ -1,0 +1,16 @@
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\1-10000-asal-sayilar.csproj.AssemblyReference.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\1-10000-asal-sayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\1-10000-asal-sayilar.AssemblyInfoInputs.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\1-10000-asal-sayilar.AssemblyInfo.cs
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\1-10000-asal-sayilar.csproj.CoreCompileInputs.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\bin\Debug\net5.0\1-10000-asal-sayilar.exe
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\bin\Debug\net5.0\1-10000-asal-sayilar.deps.json
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\bin\Debug\net5.0\1-10000-asal-sayilar.runtimeconfig.json
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\bin\Debug\net5.0\1-10000-asal-sayilar.runtimeconfig.dev.json
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\bin\Debug\net5.0\1-10000-asal-sayilar.dll
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\bin\Debug\net5.0\1-10000-asal-sayilar.pdb
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\1-10000-asal-sayilar.dll
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\refint\1-10000-asal-sayilar.dll
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\1-10000-asal-sayilar.pdb
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\1-10000-asal-sayilar.genruntimeconfig.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\1-10000-asal-sayilar\1-10000-asal-sayilar\obj\Debug\net5.0\ref\1-10000-asal-sayilar.dll

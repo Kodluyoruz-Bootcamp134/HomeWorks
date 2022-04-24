@@ -1,0 +1,16 @@
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\bin\Debug\net5.0\AsalSayılar.exe
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\bin\Debug\net5.0\AsalSayılar.deps.json
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\bin\Debug\net5.0\AsalSayılar.runtimeconfig.json
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\bin\Debug\net5.0\AsalSayılar.runtimeconfig.dev.json
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\bin\Debug\net5.0\AsalSayılar.dll
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\bin\Debug\net5.0\AsalSayılar.pdb
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\AsalSayılar.csproj.AssemblyReference.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\AsalSayılar.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\AsalSayılar.AssemblyInfoInputs.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\AsalSayılar.AssemblyInfo.cs
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\AsalSayılar.csproj.CoreCompileInputs.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\AsalSayılar.dll
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\refint\AsalSayılar.dll
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\AsalSayılar.pdb
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\AsalSayılar.genruntimeconfig.cache
+C:\DMP\Kodla, Kariyerine Basla C# .NET Bootcamp\Week-1\week1-homework1\AsalSayılar\AsalSayılar\obj\Debug\net5.0\ref\AsalSayılar.dll
