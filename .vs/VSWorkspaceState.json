@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Burak-ucuz",
-    "\\Burak-ucuz\\Week-5",
-    "\\Burak-ucuz\\Week-5\\DISample"
+    "\\Burak-Ucuz\\Week-5\\DISample\\bin\\Debug",
+    "\\Burak-Ucuz\\Week-5\\DISample\\bin\\Release\\net5.0\\ref",
+    "\\Burak-Ucuz\\Week-5\\DISample\\obj\\Debug\\net5.0\\Razor\\Views",
+    "\\Burak-Ucuz\\Week-5\\DISample\\obj\\Debug\\net5.0\\Razor\\Views\\Home",
+    "\\Burak-Ucuz\\Week-5\\DISample\\obj\\Debug\\net5.0\\Razor\\Views\\Shared",
+    "\\Burak-Ucuz\\Week-5\\DISample\\wwwroot"
   ],
-  "SelectedNode": "\\Burak-ucuz\\Week-5\\DISample\\DISample.sln",
+  "SelectedNode": "\\Burak-Ucuz",
   "PreviewInSolutionExplorer": false
 }
