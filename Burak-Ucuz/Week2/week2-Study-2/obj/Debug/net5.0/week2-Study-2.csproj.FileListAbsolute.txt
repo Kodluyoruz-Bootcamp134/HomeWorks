@@ -1,0 +1,15 @@
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\bin\Debug\net5.0\week2-Study-2.exe
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\bin\Debug\net5.0\week2-Study-2.deps.json
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\bin\Debug\net5.0\week2-Study-2.runtimeconfig.json
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\bin\Debug\net5.0\week2-Study-2.runtimeconfig.dev.json
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\bin\Debug\net5.0\week2-Study-2.dll
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\bin\Debug\net5.0\ref\week2-Study-2.dll
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\bin\Debug\net5.0\week2-Study-2.pdb
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\obj\Debug\net5.0\week2-Study-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\obj\Debug\net5.0\week2-Study-2.AssemblyInfoInputs.cache
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\obj\Debug\net5.0\week2-Study-2.AssemblyInfo.cs
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\obj\Debug\net5.0\week2-Study-2.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\obj\Debug\net5.0\week2-Study-2.dll
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\obj\Debug\net5.0\ref\week2-Study-2.dll
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\obj\Debug\net5.0\week2-Study-2.pdb
+C:\Users\Burak\source\repos\Kodluyoruz Bootcamp\134\Kodluyoruz-134\WeeklyStudies\Week2\week2-Study-2\obj\Debug\net5.0\week2-Study-2.genruntimeconfig.cache
