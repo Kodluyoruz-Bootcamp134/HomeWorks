@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">
+        Dependency Injection Lifetime
+    </h2>
+</div>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Service Type</th>
+            <th>First Instance Operation ID</th>
+            <th>Second Instance Operation ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style ="background-color: darksalmon">Transient</td>
+                <td style ="background-color: darksalmon">@ViewBag.transient1</td>
+                <td style ="background-color: darksalmon">@ViewBag.transient2</td>
+</tr>
+<tr>
+    <td>Scoped</td>
+    <td>@ViewBag.scoped1</td>
+    <td>@ViewBag.scoped2</td>
+</tr>
+<tr>
+    <td style ="background-color: aquamarine">
+        Singleton
+        </td>
+        <td style ="background-color: aquamarine">
+            @ViewBag.singleton1
+        </td>
+        <td style ="background-color: aquamarine">
+            @ViewBag.singleton2
+        </td>
+</tr>
+</tbody>
+</table>
+<p> Dependency Injection yöntemlerini ele aldığımız bu örnekte, görmekte olduğumuz gibi her yöntem için 2 farklı instance oluşturduk. Oluşturulan instance'lar için;
+    <ul>
+        <li>
+            "addTransient" metodu ile uygulama çalışmaya başladığında ve her yeni servis isteği oluşturulduğunda ayrı bir instance oluşturulur. Bunu sayfayı yenileyerek tespit etmek mümkün.
+        </li>
+        <li>
+            "addScoped" metodu ile her service kapsamı için yeni bir örnek oluşturulur. Bu servisler, servis kapsamı içinde singleton (tekton) gibi davranırlar.
+            Eğer servis temizlenebilir ise, servis kapsamı sona erip ortadan kaldırıldığında otomatik olarak temizlenir.
+        </li>
+        <li>
+            "addSingleton" yöntemi ile Hazır bir örnek ile kaydedilmediyse, bu servislerin tek örneği oluşturulur. Eğer servis kapsayıcı tarafından örneği oluşturuldu ise, bu servisler kök kapsam (root scope) tarafından takip edilir.
+            Bunun anlamı bu servisler kök kapsam sona ermediği sürece hayatta kalırlar. Eğer singleton servisi temizlenebilir ise, tanımlanmış tipi (implemented type) veya servis sağlayıcı fabrikası (service provider factory) olarak kaydedilmediyse, 
+            hali hazırdaki bir örnekle kaydedildiyse, servis kapsayıcı bu servisi takip edip temizlemez. Bu durumda servis kapsayıcısı sona erdiğinde manuel olarak temizlemenmeli.
+        </li>
+    </ul>
+    </p>

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-DISample",
+      "appliesTo": "Burak-Ucuz/Week-5/DISample.sln",
+      "type": "launch"
+    }
+  ]
+}
