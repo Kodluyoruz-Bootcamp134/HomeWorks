@@ -1,0 +1,15 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\bin\Debug\net5.0\Odev1.2AsalSayi2.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\bin\Debug\net5.0\Odev1.2AsalSayi2.deps.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\bin\Debug\net5.0\Odev1.2AsalSayi2.runtimeconfig.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\bin\Debug\net5.0\Odev1.2AsalSayi2.runtimeconfig.dev.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\bin\Debug\net5.0\Odev1.2AsalSayi2.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\bin\Debug\net5.0\ref\Odev1.2AsalSayi2.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\bin\Debug\net5.0\Odev1.2AsalSayi2.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\obj\Debug\net5.0\Odev1.2AsalSayi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\obj\Debug\net5.0\Odev1.2AsalSayi2.AssemblyInfoInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\obj\Debug\net5.0\Odev1.2AsalSayi2.AssemblyInfo.cs
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\obj\Debug\net5.0\Odev1.2AsalSayi2.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\obj\Debug\net5.0\Odev1.2AsalSayi2.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\obj\Debug\net5.0\ref\Odev1.2AsalSayi2.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\obj\Debug\net5.0\Odev1.2AsalSayi2.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.2Odev\Odev1.2AsalSayi2\obj\Debug\net5.0\Odev1.2AsalSayi2.genruntimeconfig.cache

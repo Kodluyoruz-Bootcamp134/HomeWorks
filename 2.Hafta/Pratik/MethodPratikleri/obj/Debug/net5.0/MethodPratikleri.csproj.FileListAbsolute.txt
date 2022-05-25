@@ -1,0 +1,16 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\bin\Debug\net5.0\MethodPratikleri.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\bin\Debug\net5.0\MethodPratikleri.deps.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\bin\Debug\net5.0\MethodPratikleri.runtimeconfig.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\bin\Debug\net5.0\MethodPratikleri.runtimeconfig.dev.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\bin\Debug\net5.0\MethodPratikleri.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\bin\Debug\net5.0\ref\MethodPratikleri.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\bin\Debug\net5.0\MethodPratikleri.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\obj\Debug\net5.0\MethodPratikleri.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\obj\Debug\net5.0\MethodPratikleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\obj\Debug\net5.0\MethodPratikleri.AssemblyInfoInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\obj\Debug\net5.0\MethodPratikleri.AssemblyInfo.cs
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\obj\Debug\net5.0\MethodPratikleri.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\obj\Debug\net5.0\MethodPratikleri.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\obj\Debug\net5.0\ref\MethodPratikleri.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\obj\Debug\net5.0\MethodPratikleri.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\2.Hafta\Pratik\MethodPratikleri\obj\Debug\net5.0\MethodPratikleri.genruntimeconfig.cache

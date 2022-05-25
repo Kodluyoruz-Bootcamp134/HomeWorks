@@ -1,0 +1,16 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\bin\Debug\net5.0\Odev1.1AsalSayı.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\bin\Debug\net5.0\Odev1.1AsalSayı.deps.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\bin\Debug\net5.0\Odev1.1AsalSayı.runtimeconfig.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\bin\Debug\net5.0\Odev1.1AsalSayı.runtimeconfig.dev.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\bin\Debug\net5.0\Odev1.1AsalSayı.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\bin\Debug\net5.0\ref\Odev1.1AsalSayı.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\bin\Debug\net5.0\Odev1.1AsalSayı.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\obj\Debug\net5.0\Odev1.1AsalSayı.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\obj\Debug\net5.0\Odev1.1AsalSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\obj\Debug\net5.0\Odev1.1AsalSayı.AssemblyInfoInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\obj\Debug\net5.0\Odev1.1AsalSayı.AssemblyInfo.cs
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\obj\Debug\net5.0\Odev1.1AsalSayı.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\obj\Debug\net5.0\Odev1.1AsalSayı.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\obj\Debug\net5.0\ref\Odev1.1AsalSayı.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\obj\Debug\net5.0\Odev1.1AsalSayı.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\1.1Odev\Odev1.1AsalSayı\obj\Debug\net5.0\Odev1.1AsalSayı.genruntimeconfig.cache

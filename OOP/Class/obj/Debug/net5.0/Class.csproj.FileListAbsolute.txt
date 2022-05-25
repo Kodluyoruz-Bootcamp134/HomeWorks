@@ -1,0 +1,16 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\bin\Debug\net5.0\Class.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\bin\Debug\net5.0\Class.deps.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\bin\Debug\net5.0\Class.runtimeconfig.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\bin\Debug\net5.0\Class.runtimeconfig.dev.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\bin\Debug\net5.0\Class.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\bin\Debug\net5.0\ref\Class.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\bin\Debug\net5.0\Class.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\obj\Debug\net5.0\Class.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\obj\Debug\net5.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\obj\Debug\net5.0\Class.AssemblyInfoInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\obj\Debug\net5.0\Class.AssemblyInfo.cs
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\obj\Debug\net5.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\obj\Debug\net5.0\Class.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\obj\Debug\net5.0\ref\Class.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\obj\Debug\net5.0\Class.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\Class\obj\Debug\net5.0\Class.genruntimeconfig.cache

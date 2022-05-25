@@ -1,0 +1,16 @@
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\bin\Debug\net5.0\ConstructorBase.exe
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\bin\Debug\net5.0\ConstructorBase.deps.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\bin\Debug\net5.0\ConstructorBase.runtimeconfig.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\bin\Debug\net5.0\ConstructorBase.runtimeconfig.dev.json
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\bin\Debug\net5.0\ConstructorBase.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\bin\Debug\net5.0\ref\ConstructorBase.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\bin\Debug\net5.0\ConstructorBase.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\obj\Debug\net5.0\ConstructorBase.csproj.AssemblyReference.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\obj\Debug\net5.0\ConstructorBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\obj\Debug\net5.0\ConstructorBase.AssemblyInfoInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\obj\Debug\net5.0\ConstructorBase.AssemblyInfo.cs
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\obj\Debug\net5.0\ConstructorBase.csproj.CoreCompileInputs.cache
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\obj\Debug\net5.0\ConstructorBase.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\obj\Debug\net5.0\ref\ConstructorBase.dll
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\obj\Debug\net5.0\ConstructorBase.pdb
+C:\Users\Gok\Desktop\c# console proje\KodluyoruzBootcamp\OOP\ConstructorBase\obj\Debug\net5.0\ConstructorBase.genruntimeconfig.cache
