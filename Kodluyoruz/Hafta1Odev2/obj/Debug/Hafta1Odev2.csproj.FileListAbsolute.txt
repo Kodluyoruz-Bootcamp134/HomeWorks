@@ -1,7 +1,0 @@
-C:\Dersler\Kodluyoruz\Hafta1Odev2\bin\Debug\Hafta1Odev2.exe.config
-C:\Dersler\Kodluyoruz\Hafta1Odev2\bin\Debug\Hafta1Odev2.exe
-C:\Dersler\Kodluyoruz\Hafta1Odev2\bin\Debug\Hafta1Odev2.pdb
-C:\Dersler\Kodluyoruz\Hafta1Odev2\obj\Debug\Hafta1Odev2.csproj.SuggestedBindingRedirects.cache
-C:\Dersler\Kodluyoruz\Hafta1Odev2\obj\Debug\Hafta1Odev2.csproj.CoreCompileInputs.cache
-C:\Dersler\Kodluyoruz\Hafta1Odev2\obj\Debug\Hafta1Odev2.exe
-C:\Dersler\Kodluyoruz\Hafta1Odev2\obj\Debug\Hafta1Odev2.pdb
