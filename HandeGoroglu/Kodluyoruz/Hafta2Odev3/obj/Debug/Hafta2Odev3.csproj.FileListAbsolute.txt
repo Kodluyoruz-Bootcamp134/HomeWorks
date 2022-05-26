@@ -1,0 +1,8 @@
+C:\Dersler\Kodluyoruz\Kodluyoruz\Hafta2Odev3\bin\Debug\Hafta2Odev3.exe.config
+C:\Dersler\Kodluyoruz\Kodluyoruz\Hafta2Odev3\bin\Debug\Hafta2Odev3.exe
+C:\Dersler\Kodluyoruz\Kodluyoruz\Hafta2Odev3\bin\Debug\Hafta2Odev3.pdb
+C:\Dersler\Kodluyoruz\Kodluyoruz\Hafta2Odev3\obj\Debug\Hafta2Odev3.csproj.AssemblyReference.cache
+C:\Dersler\Kodluyoruz\Kodluyoruz\Hafta2Odev3\obj\Debug\Hafta2Odev3.csproj.SuggestedBindingRedirects.cache
+C:\Dersler\Kodluyoruz\Kodluyoruz\Hafta2Odev3\obj\Debug\Hafta2Odev3.csproj.CoreCompileInputs.cache
+C:\Dersler\Kodluyoruz\Kodluyoruz\Hafta2Odev3\obj\Debug\Hafta2Odev3.exe
+C:\Dersler\Kodluyoruz\Kodluyoruz\Hafta2Odev3\obj\Debug\Hafta2Odev3.pdb
